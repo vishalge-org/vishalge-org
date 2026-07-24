@@ -4,7 +4,7 @@
 
 ### 🚀 AI Engineer | Machine Learning Enthusiast | Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vishal+G!;AI+Engineer;Machine+Learning+Developer;Computer+Vision+Enthusiast;Generative+AI+Builder;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Vishal+G!;AI+Engineer;Machine+Learning+Developer;Computer+Vision+Enthusiast;Generative+AI+Builder;Always+Learning" alt="Typing SVG" />
 
 <p>
 Building intelligent applications with AI, Machine Learning, Computer Vision, and Full Stack technologies.
